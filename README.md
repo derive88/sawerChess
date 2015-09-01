@@ -1,2 +1,0 @@
-# sawerChess
-Ajedrez amautico
